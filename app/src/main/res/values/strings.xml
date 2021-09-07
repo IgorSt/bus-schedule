@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bbus Schedule</string>
+    <string name="bus_stop_header">Stop Name</string>
+    <string name="arrival_time_header">Arrival Time</string>
+</resources>
